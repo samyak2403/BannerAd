@@ -1,4 +1,4 @@
-package com.saitawngpha.nativerecyclerview
+package com.samyak2403.bannerads
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

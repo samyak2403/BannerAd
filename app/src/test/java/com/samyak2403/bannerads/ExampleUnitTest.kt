@@ -1,4 +1,4 @@
-package com.saitawngpha.nativerecyclerview
+package com.samyak2403.bannerads
 
 import org.junit.Test
 

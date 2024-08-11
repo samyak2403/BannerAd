@@ -49,7 +49,7 @@ class Control(private val activity: Activity) {
                 override fun onAdFailedToLoad(loadAdError: LoadAdError) {
                     super.onAdFailedToLoad(loadAdError)
                     // Called when the ad fails to load
-                 
+
                     // Uncomment the line below to show a Toast message when the ad fails to load
 
                     // Toast.makeText(activity, "Ad Failed", Toast.LENGTH_SHORT).show()

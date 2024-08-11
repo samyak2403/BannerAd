@@ -1,12 +1,10 @@
-package com.saitawngpha.nativerecyclerview
+package com.samyak2403.bannerads
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.recyclerview.widget.LinearLayoutManager
 
-import com.saitawngpha.nativerecyclerview.databinding.ActivityMainBinding
-import com.saitawngpha.nativerecyclerview.model.UserModel
-import com.samyak2403.bannerads.Control
+import com.samyak2403.bannerads.databinding.ActivityMainBinding
+import com.samyak2403.bannerads.model.UserModel
 
 
 class MainActivity : AppCompatActivity() {

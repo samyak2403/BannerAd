@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.saitawngpha.nativerecyclerview'
+    namespace 'com.samyak2403.bannerads'
     compileSdk 34
 
     defaultConfig {
